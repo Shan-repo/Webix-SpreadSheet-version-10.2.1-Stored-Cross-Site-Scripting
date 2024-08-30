@@ -18,6 +18,8 @@ Technical Details:
      
   ![image](https://github.com/user-attachments/assets/482997b8-782e-47c6-b794-0995a58d6146)
 
+  ![image](https://github.com/user-attachments/assets/273b9df9-c62e-4d65-9238-a3c175242fe5)
+
 
 Impact:
 - Session Hijacking: Attackers can steal session cookies, gaining unauthorized access to user accounts.
