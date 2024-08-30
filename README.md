@@ -18,7 +18,8 @@ Technical Details:
      
   ![image](https://github.com/user-attachments/assets/482997b8-782e-47c6-b794-0995a58d6146)
 
-  ![image](https://github.com/user-attachments/assets/273b9df9-c62e-4d65-9238-a3c175242fe5)
+  ![image](https://github.com/user-attachments/assets/d0b4fba5-c8db-4dc4-b1b2-c54f7a9f26e2)
+
 
 
 Impact:
