@@ -54,7 +54,7 @@ Mitigation Recommendations:
    - Apply strict validation rules on user inputs and escape outputs before displaying them in the application.
 
 
-Authors:
+Authors:<br>
 Shanavas Shakeer <br>
 Patrick Dean Ramos <br>
 Nathu Nandwani <br>
