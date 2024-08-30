@@ -29,15 +29,15 @@ Exploitation Example:
 
 1. Steps to Exploit:
    - Insert a script payload into the comment section of a cell or into a graph label, such as:  
-    html ""><img src=1 onerror=alert(JSON.stringify(localStorage))>"
+   &quot;&gt;&lt;img src=1 onerror=alert(JSON.stringify(localStorage))&gt;
+
      
    - Save the comment or graph settings.
    - The script is stored and triggered when any user accesses the spreadsheet and views the comment or graph.
 
 2. Proof of Concept (PoC):
    - Add the following payload in a comment or graph title:  
-    html
-     '><img\src=1\onerror=alert(JSON.stringify(localStorage))>'
+    &quot;&gt;&lt;img src=1 onerror=alert(JSON.stringify(localStorage))&gt;
      
    - When the victim interacts with the infected component, the script executes, sending their cookies to the attacker's site.
 
@@ -55,7 +55,7 @@ Mitigation Recommendations:
 
 
 Authors:
-Shanavas Shakeer
-Patrick Dean Ramos
-Nathu Nandwani
-Kevin Rosales
+Shanavas Shakeer <br>
+Patrick Dean Ramos <br>
+Nathu Nandwani <br>
+Kevin Rosales <br>
