@@ -58,7 +58,4 @@ Mitigation Recommendations:
 
 
 Authors:<br>
-Shanavas Shakeer <br>
-Patrick Dean Ramos <br>
-Nathu Nandwani <br>
-Kevin Rosales <br>
+Shanavas Shakeer, Patrick Dean Ramos, Nathu Nandwani, Kevin Rosales <br>
